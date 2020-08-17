@@ -1,0 +1,9 @@
+.heading{
+    text-align: center;
+    width:100%;
+    display:block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: lightblue;
+  }

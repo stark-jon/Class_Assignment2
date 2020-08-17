@@ -1,0 +1,50 @@
+h1{
+  display: inline;
+  font-size: 100px;
+}
+h3{
+  display: inline;
+  font-size: 50px;
+}
+.heading{
+  text-align: center;
+  font-family:arial;
+  padding-top:10px;
+  
+}
+p{
+  display: inline-block;
+  margin: auto;
+  font-size: 30px; 
+  border:2px solid black;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+}
+.navbar{
+  text-align:center;
+  padding-top: 20px; 
+}
+.container {
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+}
+
+.character{
+  border:1px solid black;
+  border-radius: 10px;
+  margin:30px;
+  padding:10px;
+  width:300px;
+  display: inline-block;
+}
+.character > p {
+      border:none;
+      background: greenyellow;
+      color: white;
+      font-size:20px;
+}
